@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+
+p{
+    background-color: yellowgreen;
+    color: white;
+    font-weight: 20px;
+}
+#Primeiro_paragrafo{
+    background-color: yellow;
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+.paragrafo{
+    background-color: aqua;
+    
+    font-size: 20px; 
+    color: #000; /* cor da fonte */
+    letter-spacing: 2px ;
+    word-spacing: 15px;
+    text-transform: none;  
+    text-align: center;
+
+}
+
+.titulo{
+    color: green;
+}
+
+
+
+
+p{
+    background-color: orange;
+}
+
+.lorem{
+    text-align: center;
+    background-color: blue;
+    line-height: 50px; 
+    text-shadow: 0px 0px 0px 10px;
+    font-family: 'Mochiy Pop One', sans-serif;
+}

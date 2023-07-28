@@ -1,0 +1,38 @@
+
+.stro{
+    background-color: rgb(207, 220, 216);
+    color: black;
+    width: 400px;
+    height: 400;
+    /* position: ; */
+   
+}
+
+
+.sopa{
+   background-color:burlywood;
+   width: 500px;
+   /* height: 500px; */
+   
+}
+
+.preparo{
+    background-color: beige;
+    width: 400px;
+    /* height: 400px; */
+
+}
+
+.rodape{
+    background-color: aqua;
+    width: 100%px;
+    height: 100px;
+}
+
+
+.imagem1{
+    width: 400px;
+    height: 400px;
+    
+    /* position: ; */
+}

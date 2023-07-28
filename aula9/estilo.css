@@ -1,0 +1,29 @@
+html{
+    height: 1000px;
+}
+
+div{
+    width: 300px;
+    padding: 50px;
+}
+.div1{
+    position: static;
+    background-color: green;
+}
+
+.div2{
+    position: static;
+    background-color: blue;
+}
+.div3{
+    background-color: chocolate;
+}
+.div4{
+    width: 600px;
+    background-color: orange;
+    
+}
+.div5{
+    
+    background-color: blueviolet;
+}

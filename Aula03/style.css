@@ -1,0 +1,19 @@
+.imagem{
+    width: 600px;
+    min-width: 300px;
+    max-width: 200px;
+
+    min-height: 300px;
+    max-height: 600px;
+    height: 200px;
+
+   /* border-width: 2px;
+    border-color: orange;
+   /* border-style: solid; */
+   border: 2px solid orange;
+   border-radius: 10px 100px 1000px;
+  /* border-top-right-radius: 50px;*/
+
+}
+
+
